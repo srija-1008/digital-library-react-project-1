@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/digital-library-react-project-1/static/css/main.cb46c829.css",
+    "main.js": "/digital-library-react-project-1/static/js/main.6f9b0738.js",
+    "index.html": "/digital-library-react-project-1/index.html",
+    "main.cb46c829.css.map": "/digital-library-react-project-1/static/css/main.cb46c829.css.map",
+    "main.6f9b0738.js.map": "/digital-library-react-project-1/static/js/main.6f9b0738.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb46c829.css",
+    "static/js/main.6f9b0738.js"
+  ]
+}
